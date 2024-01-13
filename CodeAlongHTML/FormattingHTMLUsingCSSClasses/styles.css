@@ -1,0 +1,12 @@
+.red-text {
+  color: red;
+}
+
+.green-border {
+  border: thick solid green;
+  padding: 12px;
+}
+
+.blue-text {
+  color: blue;
+}
